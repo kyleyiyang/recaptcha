@@ -1,6 +1,6 @@
 # recaptcha
 
-When adding recaptcha to Contact Form 7, the recaptcha v3 did not work with an error loading recaptcha_v3 javascript from Google api.
+When adding recaptcha to Contact Form 7, the recaptcha v3 did not work and showed an error of loading recaptcha_v3 javascript from Google api.
 
 Solutions:
 
